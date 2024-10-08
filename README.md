@@ -16,8 +16,6 @@ Comencé mi formación de manera autodidácta, pasando luego a hacer un bootcamp
 
 Esta es mi cuenta personal, puedes ver otros commits mios en otra cuenta a través de este botón: 
 <a href = "https://github.com/gradhoc-jnovo" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github.com/gradhoc-jnovo"  /></a>
-
-/*📫 Contacto: **jorgedeveloper993@gmail.com***/
 <!--Intro end-->
   </p>
 <br>
