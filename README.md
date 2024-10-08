@@ -20,7 +20,7 @@ Comencé mi formación de manera autodidácta, pasando luego a hacer un bootcamp
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,redux,figma,typescript,vite,express,tailwind,bootstrap,express,js,nodejs,mysql,git,github,materialui,postman,vscode,linux,line=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,redux,figma,typescript,vite,next,tailwind,bootstrap,express,js,nodejs,mysql,git,github,materialui,postman,vscode,linux,line=12" />
   </a>
 </p>
 <br>
