@@ -14,7 +14,7 @@ Mi área principal de especialización es el desarrollo Frontend pero mi formaci
 
 Comencé mi formación de manera autodidácta, pasando luego a hacer un bootcamp de programación web en Hack a Boss. Por suerte he podido seguir ampliando mis conocimientos gracias a mi experiencia laboral, donde me he encontrado con compañeros de los que he aprendido mucho.
 
-Esta es mi cuenta personal, puedes ver otros commits mios en otra cuenta a través de este botón: 
+Esta es mi cuenta personal, puedes ver más actividad en mi otra cuenta a través de este botón: 
 <a href = "https://github.com/gradhoc-jnovo" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github.com/gradhoc-jnovo"  /></a>
 <!--Intro end-->
   </p>
