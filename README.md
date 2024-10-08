@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋  soy Jorge </h1> 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/jorgenovorodriguez/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jorgenovorodriguez"/></a>
 <a href = "https://jorgenovorodriguez.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"  /></a>
 </p>
